@@ -1,0 +1,7 @@
+Pour retrouver tous nos programmes java , veuillez aller dans "echec\out\production\echec"
+
+Pour avoir accès à l'execution , veuillez aller dans "echec\out\artifacts\echec_jar"
+Ensuite une fois dans cette direction avec le terminal vous allez juste écrire :
+java -jar echec.jar
+
+Bon jeu !
